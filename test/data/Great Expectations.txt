@@ -1,9 +1,9 @@
 {{header2
  | title    = Great Expectations
  | author   = Charles Dickens
- | section  = 
- | previous = 
- | next     = 
+ | section  =
+ | previous =
+ | next     =
  | notes    = '''Great Expectations''' is a novel by Charles Dickens first serialized in ''All the Year Round'' from December 1860 to August 1861. The action of the story takes place from Christmas Eve, 1812, when the protagonist is about seven years old, to the winter of 1840.{{wikipediaref|Great Expectations}}
 }}
 

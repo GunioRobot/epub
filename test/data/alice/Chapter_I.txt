@@ -1,11 +1,11 @@
 {{header
  | title      = [[../]]
  | author     = Lewis Carroll
- | translator = 
+ | translator =
  | section    = Chapter I
  | previous   = [[../Preface|Poem: Child of the pure unclouded brow]]
  | next       = [[../Chapter II|Chapter II]]
- | notes      = 
+ | notes      =
 }}
 {{TextQuality|50%}}One thing was certain, that the WHITE kitten had had nothing to do with it:Ñit was the black kitten's fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it COULDN'T have had any hand in the mischief.
 

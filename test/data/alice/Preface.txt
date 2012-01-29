@@ -1,11 +1,11 @@
 {{header
  | title      = [[../]]
  | author     = Lewis Carroll
- | translator = 
+ | translator =
  | section    = Preface
  | previous   = [[../]]
  | next       = [[../Chapter I|Chapter I]]
- | notes      = 
+ | notes      =
 }}
 
 <i>Child of the pure unclouded brow <br>
